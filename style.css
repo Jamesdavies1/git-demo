@@ -1,0 +1,40 @@
+h1{
+    color:aquamarine;
+    text-align: center;
+    background-color: white;
+}
+h2{
+    color:aquamarine;
+    text-align: center;
+}
+img{
+    background-color:aquamarine;
+    flex-flow: column-reverse;
+
+text-align-last: center;
+}
+html{
+    background-color:black;
+    text-align: center;
+}
+h3{
+    color:aquamarine;
+    text-align: center;
+}
+p{
+    color:aquamarine;
+    text-align: center;
+}
+ul{
+    color:aquamarine;
+    text-align: center;
+}
+a{
+    color: red;
+}
+a:hover{
+color:green;
+}
+li{
+    text-align: center;
+}
