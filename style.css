@@ -1,40 +1,88 @@
 h1{
-    color:aquamarine;
-    text-align: center;
-    background-color: white;
-}
-h2{
-    color:aquamarine;
-    text-align: center;
-}
-img{
-    background-color:aquamarine;
-    flex-flow: column-reverse;
 
-text-align-last: center;
+    color:mediumseagreen;
+    text-align: center;
+    border-style: double;
+    padding: 40px;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: darkslategray;
+
 }
+
+h2{
+    color:mediumseagreen;
+    text-align: center;
+    font-style: italic;
+    margin-top: 60px;
+    text-decoration: underline;
+    margin-bottom: 70px;
+    
+
+
+}
+
+img{
+    background-color:mediumseagreen;
+    text-align-last: center;
+border-style: double;
+padding: 20px;
+
+}
+
 html{
-    background-color:black;
+
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: grey;
+
 }
+
 h3{
-    color:aquamarine;
+
+    color:mediumseagreen;
     text-align: center;
+
 }
+
 p{
-    color:aquamarine;
+    color:mediumseagreen;
     text-align: center;
+    margin-top: 80px;
+    margin-bottom: 120px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-style: double;
+    padding: 20px;
+    background-color: darkslategray;
+
 }
+
 ul{
-    color:aquamarine;
+    color:mediumseagreen;
     text-align: center;
+    list-style-position: inside;
+    border-style: double;
+    padding: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: darkslategray;
+
 }
+
 a{
-    color: red;
+
+    color: mediumseagreen;
+
+
 }
 a:hover{
-color:green;
+color:white;
+
 }
+
 li{
     text-align: center;
+
 }
