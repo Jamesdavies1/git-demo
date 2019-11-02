@@ -12,11 +12,10 @@
     width: 15%;
     height: 60px;
     text-align: center;
-    margin-left: 15%;
+    margin-left: 16.5%;
     position: absolute;
     margin-top: 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-
 }
 
 nav.navbar ul.navbar2 li a {
@@ -39,7 +38,7 @@ nav.navbar ul.navbar2 li a {
     width: 100%;
     height: 70px;
     background-color: white;
-    padding-right: 80px;
+    padding-right: 200px;
     margin: 0;
 }
 
@@ -78,18 +77,13 @@ body{
     margin: auto;
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
-
-}
-
-#bio{
-
 }
 
 img{
     width: 200px;
     height: 200px;
-    padding-left: 25px;
-    padding-top: 25px;
+    padding-left: 20px;
+    padding-top: 45px;
     float: left;
     padding-right: 20px;
 }
@@ -105,12 +99,16 @@ img{
     bottom: 0;
     left: 0;
     height: 80px;
-
 }
 
 p{
     font-family: Arial, Helvetica, sans-serif;
     line-height: 25px;
     padding: 25px;
+    color: #777777;
+}
+
+#form1{
+    font-family: Arial, Helvetica, sans-serif;
     color: #777777;
 }
