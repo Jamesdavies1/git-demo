@@ -90,7 +90,7 @@ img{
 
 .footer{
     background-color: #666666;
-    color: #777777;
+    color: white;
     text-align: center;
     width: 100%;
     border-top: 8px solid #4aaaa5;
@@ -108,7 +108,21 @@ p{
     color: #777777;
 }
 
-#form1{
+#form{
     font-family: Arial, Helvetica, sans-serif;
     color: #777777;
+    padding-left: 45px;
+    padding-top: 30px;
+}
+
+#messagebox{
+    height:18em;
+}
+
+#submit{
+    border-style: solid;
+    background-color: #4aaaa5;
+    color: white;
+    height: 30px;
+    width: 80px;
 }
