@@ -144,7 +144,7 @@ input{
 }
 
 #box1{
-    background-image: url("file:///Users/jamesdavies/coding%20bootcamp/git-demo/assets/images/hangman.jpg");
+    background-image: url("../images/hangman.jpg");
     height: 120px;
     width: 170px;
     margin-left: 50px;
@@ -153,7 +153,7 @@ input{
 }
 
 #box2{
-    background-image: url("file:///Users/jamesdavies/coding%20bootcamp/git-demo/assets/images/rpg.jpg");
+    background-image: url("../images/rpg.jpg");
     height: 120px;
     width: 170px;  
     margin-left: 50px;
@@ -163,7 +163,7 @@ input{
 }
 
 #box3{
-    background-image: url("file:///Users/jamesdavies/coding%20bootcamp/git-demo/assets/images/trivia.jpg");
+    background-image: url("../images/trivia.jpg");
     height: 120px;
     width: 170px;
     margin-left: 50px;
@@ -174,7 +174,7 @@ input{
 }
 
 #box4{
-    background-image: url("file:///Users/jamesdavies/coding%20bootcamp/git-demo/assets/images/sauce.jpg");
+    background-image: url("../images/sauce.jpg");
     height: 120px;
     width: 170px;  
     margin-left: 50px;
@@ -184,7 +184,7 @@ input{
 }
 
 #box5{
-    background-image: url("file:///Users/jamesdavies/coding%20bootcamp/git-demo/assets/images/rockpaperscissors.jpg");
+    background-image: url("../images/rockpaperscissors.jpg");
     height: 120px;
     width: 170px;
     margin-left: 50px;
